@@ -16,10 +16,9 @@ Video File: [WOWmd-raw] Ganbarist! Shun - 08 (WEB-DL).mp4
 Keyframes File: shunkeyframes/shun08_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 2.875000
-Scroll Position: 364
-Active Line: 366
-Video Position: 17211
+Video Zoom Percent: 1.750000
+Active Line: 5
+Video Position: 414
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,9 +34,11 @@ Style: NarratorTop,Rosario,37,&H00FFFFFF,&H000000FF,&H000047A0,&H8C000000,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:00.00,0:00:05.30,NarratorTop,,0,0,0,,The gold medal: a glorious brilliance achieved only through a long and arduous journey.
+Dialogue: 0,0:00:01.63,0:00:07.40,Sign,,0,0,0,,{\blur3\bord3\fade(500,0)\pos(358.75,362.14)\c&HFFFFFB&\3c&H86180D&\t(1500,6000,\1a&H9B&\3a&HA9&)}Morisue-san won the gold medal on the horizontal bar at the 1984 Los Angeles Olympics.
 Dialogue: 10,0:00:05.30,0:00:07.39,NarratorTop,,0,0,0,,This is the story of our young heroes
 Dialogue: 10,0:00:07.39,0:00:10.97,NarratorTop,,0,0,0,,rising to become the cornerstone of Japan's gymnastics in the 21st century.
 Dialogue: 10,0:00:10.97,0:00:15.03,NarratorTop,,0,0,0,,Their goal is the gold medal! \NTheir goal is the last Olympics of the 20th century!
+Dialogue: 0,0:00:13.81,0:00:15.03,Sign,,0,0,0,,{\pos(163.58,177.2)\c&H008C03&\blur1\fs40\3c&HFFF7F3&}Sydney '2000
 Dialogue: 10,0:00:15.03,0:00:16.73,Default,,0,0,0,,Don't let go now!
 Dialogue: 10,0:00:22.61,0:00:24.81,Default,,0,0,0,,R-Regrouped in the air?
 Dialogue: 10,0:00:24.81,0:00:26.14,Default,,0,0,0,,Shun has...
@@ -383,7 +384,7 @@ Dialogue: 10,0:23:15.42,0:23:18.45,Default,,0,0,0,,What can you do in just one m
 Dialogue: 10,0:23:20.06,0:23:21.13,Default,,0,0,0,,There's no way...
 Dialogue: 10,0:23:22.00,0:23:23.73,Default,,0,0,0,,You're no longer our Captain?
 Dialogue: 10,0:23:24.37,0:23:26.23,Default,,0,0,0,,When I told you about the gold medal,
-Dialogue: 10,0:23:26.67,0:23:31.63,Default,,0,0,0,,you said that if I dream big, \NI must work hard for it. {no clue what's arawatsuji}
+Dialogue: 10,0:23:26.67,0:23:31.63,Default,,0,0,0,,you didn't laugh, but instead said that if I dream big, I must work hard for it.
 Dialogue: 10,0:23:31.63,0:23:34.64,Default,,0,0,0,,Didn't you tell me to dream big?!
 Dialogue: 10,0:23:34.64,0:23:37.71,Default,,0,0,0,,Captain! I beg you not to quit!
 Dialogue: 10,0:23:37.71,0:23:40.00,Default,,0,0,0,,Let me alone already!
@@ -392,8 +393,6 @@ Dialogue: 10,0:23:45.01,0:23:51.00,NarratorTop,,0,0,0,,Thomas flair is performed
 Dialogue: 10,0:23:51.00,0:23:53.36,NarratorTop,,0,0,0,,And when you do it with your feet together, it's called circle. {両足旋回 - no idea what to call it in EN}
 Dialogue: 10,0:23:53.36,0:23:58.83,NarratorTop,,0,0,0,,Speed and size are then appraised. \NThis is the most stressful event out of six.
 Dialogue: 0,0:23:58.83,0:24:00.83,NarratorTop,,0,0,0,,
-Dialogue: 0,0:00:01.63,0:00:07.40,Sign,,0,0,0,,{\blur3\bord3\fade(500,0)\pos(358.75,362.14)\c&HFFFFFB&\3c&H86180D&\t(1500,6000,\1a&H9B&\3a&HA9&)}Morisue-san won the gold medal on the horizontal bar at the 1984 Los Angeles Olympics.
-Dialogue: 0,0:00:13.81,0:00:15.03,Sign,,0,0,0,,{\pos(163.58,177.2)\c&H008C03&\blur1\fs40\3c&HFFF7F3&}Sydney '2000
 Dialogue: 0,0:01:59.94,0:02:05.94,Sign,,0,0,0,,{\bord0.1\blur1\fs37\pos(363.75,58.4)}Transfer Student!                                   \h \N\N\N\N\N\N\N\N\N\N\N\N\N\NDoing a Back Hip Circle in a Sailor Uniform {転校生だ!セーラー服で逆上がり}
 Dialogue: 0,0:03:12.16,0:03:17.06,Sign,,0,0,0,,{\blur1\c&H88948F&\3c&H5E432D&\fax-0.010627\fscx141.48\fscy96.57\frz0.4955\frx26.9844\fry-1.5675\xbord0.82\ybord0.93\move(332.42,610.8,331.67,187.6,32,4870)}Heisei \NGymnastics \NClub \N{\c&H09282D&\b1\3c&H79B7D1&}Data
 Dialogue: 0,0:03:22.65,0:03:42.14,Sign,,0,0,0,,{\c&HC1D7D0&\fade(1600,0)\pos(105.38,120.36)}Floor {\fs20}\N\N\N\N\N\N\N\N\NHorizontal bar \N\N\N\N\N\N\N\N\N{\fs}Vaulting

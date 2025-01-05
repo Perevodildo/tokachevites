@@ -17,9 +17,9 @@ Keyframes File: shunkeyframes/shun09_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.500000
-Scroll Position: 303
-Active Line: 321
-Video Position: 34089
+Scroll Position: 294
+Active Line: 313
+Video Position: 42559
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -347,7 +347,7 @@ Dialogue: 10,0:23:18.63,0:23:23.52,Default,,0,0,0,,I believe in you. \NFujimaki-
 Dialogue: 10,0:23:33.51,0:23:36.00,Default,,0,0,0,,Wake up, Fujimaki-kun.
 Dialogue: 10,0:23:36.38,0:23:37.58,Default,,0,0,0,,Huh?
 Dialogue: 10,0:23:37.98,0:23:39.18,Default,,0,0,0,,Wake up.
-Dialogue: 10,0:23:39.18,0:23:45.01,Default,,0,0,0,,Next Gamba: \NSpecial Training! It Feels Great to Work Hard! {特訓だ!ガンバるって素敵だね}
+Dialogue: 10,0:23:39.18,0:23:45.01,Default,,0,0,0,,Next Gamba: \NSpecial Training! Hard Work Always Pays Off! {特訓だ!ガンバるって素敵だね}
 Dialogue: 10,0:23:45.01,0:23:47.74,NarratorTop,,0,0,0,,With vault, the moment you handspring is the key.
 Dialogue: 10,0:23:47.74,0:23:52.21,NarratorTop,,0,0,0,,The push and thrust for 0.0 seconds at this moment \Nwill greatly affect your subsequent move.
 Dialogue: 10,0:23:52.21,0:23:56.60,NarratorTop,,0,0,0,,Do you understand? Once you start running in this event, you cannot stop halfway.
